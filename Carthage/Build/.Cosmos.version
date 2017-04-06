@@ -1,0 +1,22 @@
+{
+  "commitish" : "8.0.2",
+  "iOS" : [
+    {
+      "name" : "Cosmos",
+      "md5" : "7bf5d802252289bfb55a73d48e3a0476"
+    }
+  ],
+  "xcodeVersion" : "Xcode 8.2.1\nBuild version 8C1002",
+  "watchOS" : [
+
+  ],
+  "tvOS" : [
+    {
+      "name" : "Cosmos",
+      "md5" : "e0e16254a240083db64b0328cfd70d46"
+    }
+  ],
+  "Mac" : [
+
+  ]
+}
